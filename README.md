@@ -1,7 +1,9 @@
 ## Hi there 👋
 # 💫 About Me:
-👨🏻‍🎓Student studying Computer Science at Concordia University <br>🔭I'm currently working on GroupCode<br>🌱I'm currently learning AWS<br>How to reach me: medlejryan@gmail.com
-
+- 👨🏻‍🎓 Computer Science student at **Concordia University**  
+- 🔭 Currently working on **GroupCode**  
+- 🌱 Learning **AWS**  <br>How to reach me: medlejryan@gmail.com
+- 📈 Goals: Preparing for internships | Getting stronger at LeetCode
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ryan-Medlej) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:medlejryan@gmail.com) 
