@@ -2,7 +2,7 @@
 # 💫 About Me:
 - 👨🏻‍🎓 Computer Science student at **Concordia University**  
 - 🔭 Currently working on **GroupCode**  
-- 🌱 Learning **AWS**  <br>How to reach me: medlejryan@gmail.com
+- 🌱 Learning **AWS**  
 - 📈 Goals: Preparing for internships | Getting stronger at LeetCode
 How to reach me: medlejryan@gmail.com
 
