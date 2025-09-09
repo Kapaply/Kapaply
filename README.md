@@ -3,7 +3,7 @@
 - 👨🏻‍🎓 Computer Science student at **Concordia University**  
 - 🔭 Currently working on **GroupCode**  
 - 🌱 Learning **AWS**  
-- 📈 Goals: Preparing for internships | Getting stronger at LeetCode
+- 📈 Goals: Preparing for internships | Getting stronger at LeetCode <br>
 How to reach me: medlejryan@gmail.com
 
 ## 🌐 Socials:
