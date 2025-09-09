@@ -4,6 +4,7 @@
 - 🔭 Currently working on **GroupCode**  
 - 🌱 Learning **AWS**  <br>How to reach me: medlejryan@gmail.com
 - 📈 Goals: Preparing for internships | Getting stronger at LeetCode
+How to reach me: medlejryan@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ryan-Medlej) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:medlejryan@gmail.com) 
