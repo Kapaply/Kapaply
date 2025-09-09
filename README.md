@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-I'm currently working on GroupCode<br>I'm currently learning AWS<br>How to reach me: medlejryan@gmail.com
+👨🏻‍🎓Student studying Computer Science at Concordia University <br>🔭I'm currently working on GroupCode<br>🌱I'm currently learning AWS<br>How to reach me: medlejryan@gmail.com
 
 
 ## 🌐 Socials:
